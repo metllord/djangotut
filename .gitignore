@@ -1,0 +1,4 @@
+*.py[oc]
+db.sqlite3
+prod_settings.py
+
